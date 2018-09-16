@@ -1,0 +1,25 @@
+{
+  "name": "util-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kouchya/util-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kouchya/util-ex/issues"
+  },
+  "homepage": "https://github.com/Kouchya/util-ex#readme"
+}
